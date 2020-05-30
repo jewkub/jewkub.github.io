@@ -1,0 +1,26 @@
+{
+  "name": "jewkub.github.io",
+  "version": "0.1.0",
+  "description": "My Github Pages",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "private": true,
+  "dependencies": {
+    "next": "9.4.4",
+    "react": "16.13.1",
+    "react-dom": "16.13.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jewkub/jewkub.github.io.git"
+  },
+  "author": "Jew",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jewkub/jewkub.github.io/issues"
+  },
+  "homepage": "https://github.com/jewkub/jewkub.github.io#readme"
+}
